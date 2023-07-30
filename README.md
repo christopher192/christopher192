@@ -1,4 +1,9 @@
-### Just Miles
+Just Miles
+
+### Focus & Interesting Area
+-  Time Series Analysis & Forecasting
+-  Computer Vision & Image Processing
+-  Full Stack Development
 
 <!--
 **christopher192/christopher192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
