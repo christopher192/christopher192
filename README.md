@@ -3,7 +3,9 @@ Just Miles
 ### Focus & Interesting Area
 -  Time Series Analysis & Forecasting
 -  Computer Vision & Image Processing
+-  Natural Language Preprocessing
 -  Full Stack Development
+-  Web 3, Blockchain & Cryptocurrency
 
 <!--
 **christopher192/christopher192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
